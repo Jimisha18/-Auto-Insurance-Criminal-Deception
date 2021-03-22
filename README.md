@@ -1,3 +1,3 @@
 # Auto-Insurance-Criminal-Deception
 
-Currently working on the portfolio project will be updated and uploaded soon
+Currently working on modifying the portfolio project with different techniques will be uploading the final version.
