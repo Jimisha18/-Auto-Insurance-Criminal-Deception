@@ -15,10 +15,10 @@
 * Matplotlib
 * Keras
 
-##II. DISCOVER 
+## II. DISCOVER 
 A .csv file containing the dataset is used for this project. The various attributes of the dataset are explianed further.
 
-ATTRIBUTES OF DATASET:
+### ATTRIBUTES OF DATASET:
 1.	months_as_customer- It denotes number of months for which the customer is associated with the insurance company.
 2.	age- It denotes person’s age.
 3.	policy_number- denotes the insurance policy number.
@@ -124,7 +124,7 @@ The classification by SVM model has no major improvement using the tunned parame
 
 7. Build XG Boost model
 
-### MODEL-2 XG Boost
+### MODEL-2 XG Boost Classifier
 ```
 from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score
