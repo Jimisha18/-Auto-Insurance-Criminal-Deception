@@ -60,8 +60,6 @@ Example- 250/500- If injury is total 500$ then only 250$ will be covered from yo
 38.	auto-year- In which year you purchase your vehicle
 39.	fraud_reported- If the fraud was recorded.
 
-
-## II. DISCOVER
 **Data pre-processing**
 
 1. Dropping the columns which are not necesssry for  prediction which includes the following: 'policy_number','policy_bind_date','policy_state','insured_zip','incident_location','incident_date','incident_state','incident_city','insured_hobbies','auto_make','auto_model','auto_year'
